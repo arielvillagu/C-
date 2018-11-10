@@ -1,0 +1,7 @@
+C:\Users\Santiago\Desktop\C#\Instrucciones\Instrucciones\bin\Debug\Instrucciones.exe.config
+C:\Users\Santiago\Desktop\C#\Instrucciones\Instrucciones\bin\Debug\Instrucciones.exe
+C:\Users\Santiago\Desktop\C#\Instrucciones\Instrucciones\bin\Debug\Instrucciones.pdb
+C:\Users\Santiago\Desktop\C#\Instrucciones\Instrucciones\obj\Debug\Instrucciones.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\C#\Instrucciones\Instrucciones\obj\Debug\Instrucciones.exe
+C:\Users\Santiago\Desktop\C#\Instrucciones\Instrucciones\obj\Debug\Instrucciones.pdb
+C:\Users\Santiago\Desktop\C#\Instrucciones\Instrucciones\obj\Debug\Instrucciones.csprojAssemblyReference.cache
