@@ -1,0 +1,6 @@
+C:\Users\Santiago\Desktop\C#\herencias\herencias\bin\Debug\herencias.exe.config
+C:\Users\Santiago\Desktop\C#\herencias\herencias\bin\Debug\herencias.exe
+C:\Users\Santiago\Desktop\C#\herencias\herencias\bin\Debug\herencias.pdb
+C:\Users\Santiago\Desktop\C#\herencias\herencias\obj\Debug\herencias.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\C#\herencias\herencias\obj\Debug\herencias.exe
+C:\Users\Santiago\Desktop\C#\herencias\herencias\obj\Debug\herencias.pdb

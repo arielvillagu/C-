@@ -1,0 +1,7 @@
+C:\Users\Santiago\Desktop\C#\estructuraIf\estructuraIf\bin\Debug\estructuraIf.exe.config
+C:\Users\Santiago\Desktop\C#\estructuraIf\estructuraIf\bin\Debug\estructuraIf.exe
+C:\Users\Santiago\Desktop\C#\estructuraIf\estructuraIf\bin\Debug\estructuraIf.pdb
+C:\Users\Santiago\Desktop\C#\estructuraIf\estructuraIf\obj\Debug\estructuraIf.csprojAssemblyReference.cache
+C:\Users\Santiago\Desktop\C#\estructuraIf\estructuraIf\obj\Debug\estructuraIf.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\C#\estructuraIf\estructuraIf\obj\Debug\estructuraIf.exe
+C:\Users\Santiago\Desktop\C#\estructuraIf\estructuraIf\obj\Debug\estructuraIf.pdb
