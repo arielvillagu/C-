@@ -1,0 +1,7 @@
+C:\Users\Santiago\source\repos\tiposDeDatos\tiposDeDatos\bin\Debug\tiposDeDatos.exe.config
+C:\Users\Santiago\source\repos\tiposDeDatos\tiposDeDatos\bin\Debug\tiposDeDatos.exe
+C:\Users\Santiago\source\repos\tiposDeDatos\tiposDeDatos\bin\Debug\tiposDeDatos.pdb
+C:\Users\Santiago\source\repos\tiposDeDatos\tiposDeDatos\obj\Debug\tiposDeDatos.csprojAssemblyReference.cache
+C:\Users\Santiago\source\repos\tiposDeDatos\tiposDeDatos\obj\Debug\tiposDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\source\repos\tiposDeDatos\tiposDeDatos\obj\Debug\tiposDeDatos.exe
+C:\Users\Santiago\source\repos\tiposDeDatos\tiposDeDatos\obj\Debug\tiposDeDatos.pdb

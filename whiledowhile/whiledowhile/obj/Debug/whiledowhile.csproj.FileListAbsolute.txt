@@ -1,0 +1,6 @@
+C:\Users\Santiago\Desktop\C#\whiledowhile\whiledowhile\bin\Debug\whiledowhile.exe.config
+C:\Users\Santiago\Desktop\C#\whiledowhile\whiledowhile\bin\Debug\whiledowhile.exe
+C:\Users\Santiago\Desktop\C#\whiledowhile\whiledowhile\bin\Debug\whiledowhile.pdb
+C:\Users\Santiago\Desktop\C#\whiledowhile\whiledowhile\obj\Debug\whiledowhile.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\C#\whiledowhile\whiledowhile\obj\Debug\whiledowhile.exe
+C:\Users\Santiago\Desktop\C#\whiledowhile\whiledowhile\obj\Debug\whiledowhile.pdb
