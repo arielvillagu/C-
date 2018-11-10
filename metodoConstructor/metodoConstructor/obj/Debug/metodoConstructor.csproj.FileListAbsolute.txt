@@ -1,0 +1,6 @@
+C:\Users\Santiago\Desktop\C#\metodoConstructor\metodoConstructor\bin\Debug\metodoConstructor.exe.config
+C:\Users\Santiago\Desktop\C#\metodoConstructor\metodoConstructor\bin\Debug\metodoConstructor.exe
+C:\Users\Santiago\Desktop\C#\metodoConstructor\metodoConstructor\bin\Debug\metodoConstructor.pdb
+C:\Users\Santiago\Desktop\C#\metodoConstructor\metodoConstructor\obj\Debug\metodoConstructor.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\C#\metodoConstructor\metodoConstructor\obj\Debug\metodoConstructor.exe
+C:\Users\Santiago\Desktop\C#\metodoConstructor\metodoConstructor\obj\Debug\metodoConstructor.pdb

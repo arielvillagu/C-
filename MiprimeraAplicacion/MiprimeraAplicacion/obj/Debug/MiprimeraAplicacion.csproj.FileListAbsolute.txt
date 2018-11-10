@@ -1,0 +1,10 @@
+C:\Users\Santiago\source\repos\MiprimeraAplicacion\MiprimeraAplicacion\bin\Debug\MiprimeraAplicacion.exe.config
+C:\Users\Santiago\source\repos\MiprimeraAplicacion\MiprimeraAplicacion\bin\Debug\MiprimeraAplicacion.exe
+C:\Users\Santiago\source\repos\MiprimeraAplicacion\MiprimeraAplicacion\bin\Debug\MiprimeraAplicacion.pdb
+C:\Users\Santiago\source\repos\MiprimeraAplicacion\MiprimeraAplicacion\obj\Debug\MiprimeraAplicacion.csprojAssemblyReference.cache
+C:\Users\Santiago\source\repos\MiprimeraAplicacion\MiprimeraAplicacion\obj\Debug\MiprimeraAplicacion.Form1.resources
+C:\Users\Santiago\source\repos\MiprimeraAplicacion\MiprimeraAplicacion\obj\Debug\MiprimeraAplicacion.Properties.Resources.resources
+C:\Users\Santiago\source\repos\MiprimeraAplicacion\MiprimeraAplicacion\obj\Debug\MiprimeraAplicacion.csproj.GenerateResource.cache
+C:\Users\Santiago\source\repos\MiprimeraAplicacion\MiprimeraAplicacion\obj\Debug\MiprimeraAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\source\repos\MiprimeraAplicacion\MiprimeraAplicacion\obj\Debug\MiprimeraAplicacion.exe
+C:\Users\Santiago\source\repos\MiprimeraAplicacion\MiprimeraAplicacion\obj\Debug\MiprimeraAplicacion.pdb

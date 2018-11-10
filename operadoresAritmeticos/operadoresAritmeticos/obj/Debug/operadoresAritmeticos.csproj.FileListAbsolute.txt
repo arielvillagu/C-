@@ -1,0 +1,7 @@
+C:\Users\Santiago\Desktop\C#\operadoresAritmeticos\operadoresAritmeticos\obj\Debug\operadoresAritmeticos.csprojAssemblyReference.cache
+C:\Users\Santiago\Desktop\C#\operadoresAritmeticos\operadoresAritmeticos\obj\Debug\operadoresAritmeticos.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\C#\operadoresAritmeticos\operadoresAritmeticos\bin\Debug\operadoresAritmeticos.exe.config
+C:\Users\Santiago\Desktop\C#\operadoresAritmeticos\operadoresAritmeticos\bin\Debug\operadoresAritmeticos.exe
+C:\Users\Santiago\Desktop\C#\operadoresAritmeticos\operadoresAritmeticos\bin\Debug\operadoresAritmeticos.pdb
+C:\Users\Santiago\Desktop\C#\operadoresAritmeticos\operadoresAritmeticos\obj\Debug\operadoresAritmeticos.exe
+C:\Users\Santiago\Desktop\C#\operadoresAritmeticos\operadoresAritmeticos\obj\Debug\operadoresAritmeticos.pdb
