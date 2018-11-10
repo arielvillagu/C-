@@ -1,0 +1,7 @@
+C:\Users\Santiago\Desktop\C#\archivos\archivos\bin\Debug\archivos.exe.config
+C:\Users\Santiago\Desktop\C#\archivos\archivos\bin\Debug\archivos.exe
+C:\Users\Santiago\Desktop\C#\archivos\archivos\bin\Debug\archivos.pdb
+C:\Users\Santiago\Desktop\C#\archivos\archivos\obj\Debug\archivos.csprojAssemblyReference.cache
+C:\Users\Santiago\Desktop\C#\archivos\archivos\obj\Debug\archivos.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\C#\archivos\archivos\obj\Debug\archivos.exe
+C:\Users\Santiago\Desktop\C#\archivos\archivos\obj\Debug\archivos.pdb

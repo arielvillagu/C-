@@ -1,0 +1,7 @@
+C:\Users\Santiago\Desktop\C#\Clase\Clase\bin\Debug\Clase.exe.config
+C:\Users\Santiago\Desktop\C#\Clase\Clase\bin\Debug\Clase.exe
+C:\Users\Santiago\Desktop\C#\Clase\Clase\bin\Debug\Clase.pdb
+C:\Users\Santiago\Desktop\C#\Clase\Clase\obj\Debug\Clase.csprojAssemblyReference.cache
+C:\Users\Santiago\Desktop\C#\Clase\Clase\obj\Debug\Clase.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\C#\Clase\Clase\obj\Debug\Clase.exe
+C:\Users\Santiago\Desktop\C#\Clase\Clase\obj\Debug\Clase.pdb
